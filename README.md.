@@ -1,0 +1,23 @@
+# Colorectal Cancer miRNA Analysis
+
+This project compares two computational methods, miRDeep2 and
+miRge3.0, for identifying known and novel microRNAs associated
+with colorectal cancer.
+
+ Research Question
+How do computational methods: miRDeep2 and miRge3.0 differ in identifying known and
+novel microRNAs in colorectal cancer?
+
+ Dataset
+NCBI Gene Expression Omnibus (GEO): GSE43550
+
+Focus
+The project focuses on miR-195-5p, a microRNA associated with
+the regulation of cell proliferation in colorectal cancer.
+
+ Computational Methods
+- miRDeep2
+- miRge3.0
+- Cutadapt
+
+Research proposal and computational analysis in development.
